@@ -26,7 +26,6 @@ Add the @import "tailwindcss"; to the input.css file.
 
 Step 4 :
 Run The Following Command,
-Start the Tailwind CLI build process,
 Run the CLI tool to scan your source files for classes and build your CSS.
 
 ```
