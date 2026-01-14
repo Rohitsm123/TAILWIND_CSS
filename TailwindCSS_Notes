@@ -1,0 +1,70 @@
+Tailwind CSS is the Utility Framework for CSS.
+
+Following are the Usage of Tailwind CSS :
+
+1) For Background-color we use ,
+
+bg-colorname
+
+2) For text color we use ,
+
+text-colorname
+
+3) For Size of the text we use ,
+
+text-3xl
+
+4) For Margin we use ,
+
+m-4
+
+5) For making the contents center we use ,
+
+grid place content-center
+
+6) For making the contents horizontal & vertical we use ,
+
+h-screen , utility to make an element space that entire height of the veiwport.
+
+7) For Padding we use ,
+
+p-6
+
+8) For Width we use ,
+
+max-w-small
+or
+w-5
+
+9) For Border Radius we use ,
+
+rounded-3xl
+
+10) For Shadow we use ,
+
+shadow-lg
+
+11) For Align-items we use ,
+
+flex item-center
+
+12) For Justify-contents we use ,
+
+flex justify-center
+
+13) For space between object we use ,
+
+space-x-2
+
+14) For height & width of the image size we use ,
+
+h-12
+w-12
+
+15) For font size we use ,
+
+font-bold
+
+16) For Smaller Text we use ,
+
+text-base
