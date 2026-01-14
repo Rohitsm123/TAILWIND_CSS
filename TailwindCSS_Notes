@@ -2,6 +2,7 @@ Tailwind CSS is the Utility Framework for CSS.
 
 Following are the Usage of Tailwind CSS :
 
+||Utility-First Fundamentals:
 1) For Background-color we use ,
 
 bg-colorname
