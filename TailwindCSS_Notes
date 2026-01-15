@@ -3,6 +3,7 @@ Tailwind CSS is the Utility Framework for CSS.
 Following are the Usage of Tailwind CSS :
 
 ||Utility-First Fundamentals:
+
 1) For Background-color we use ,
 
 bg-colorname
@@ -69,3 +70,64 @@ font-bold
 16) For Smaller Text we use ,
 
 text-base
+
+17) For Margin top we use ,
+
+mt-4
+
+18) For Maximum Width we use ,
+
+max-w-sm
+
+19) For Overflow of the image  we use ,
+
+overflow-hidden
+
+20) To Cover full image we use ,
+
+object-cover
+
+21) For Uppercase of the text we use ,
+
+uppercase
+
+22) For Spacing of the text we use ,
+
+tracking-wider
+
+23) For Padding the x axis and to give as a pixel sixe we use ,
+
+px-[4px]
+
+// Hover , Focus And Other States :
+
+24) For Hover we use ,
+
+hover : color name
+
+25) When The window is in Dark mode we use,
+
+dark : color name
+
+It only runs only when the system is in dark mode otherwise it will not implement this property.
+
+
+// Responsive design :
+
+26) Using responsive utility variants to build adaptive user interfaces.
+Tailwind uses a mobile-first breakpoint system.
+Folowing are the breakpoints,
+
+`sm` for small we use, sm: color of the text || place of the contens.
+`md` for medium we use, sm: color of the text || place of the contens.
+`lg` for large we use, sm: color of the text || place of the contens.
+`xl` for x-large we use, sm: color of the text || place of the contens.
+`2xl`for 2xl we use, sm: color of the text || place of the contens.
+
+We can see this with the help of the example,
+<div class="text-white sm:text-amber-500 lg:text-amber-200 my-5">
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere, commodi.</p>
+</div>
+
+In the above example,It sets the breakpoint to specific condition when it hits specific breakpoint it turns the color of the text.
+
