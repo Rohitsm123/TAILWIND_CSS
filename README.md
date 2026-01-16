@@ -1,1 +1,1 @@
-# A Code Repo For Tailwind_CSS
+# A Code Repo For Tailwind CSS
