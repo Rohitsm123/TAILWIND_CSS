@@ -10,7 +10,7 @@ npm init -y
 Step 2 :
 To Install Tailwind CSS,
 Install tailwindcss and @tailwindcss/cli via npm,
-Write this in Terminal.
+Write this command in Terminal.
 
 ```
 npm install tailwindcss @tailwindcss/cli
