@@ -29,8 +29,12 @@ grid place content-center
 h-screen , utility to make an element space that entire height of the veiwport.
 
 7) For Padding we use ,
-
-p-6
+Note : We can also use by giving the axis name or location,
+p-10
+px-2
+py-3
+pt-3
+pb-4
 
 8) For Width we use ,
 
@@ -131,5 +135,35 @@ We can see this with the help of the example,
 
 In the above example,It sets the breakpoint to specific condition when it hits specific breakpoint it turns the color of the text.
 
-27) 
+27) For Hiding The Element we use,
+
+hidden
+
+28) For Cursor we use,
+
+cursor-pointer
+
+29) For Menu Bar we use,
+
+&#8801
+
+30) For Border we use,
+
+border color name
+
+31) For Border Bottom we use,
+
+border-b-2
+
+32) To Store Items one below another we use,
+
+flex flex-col
+
+33) To Wrap a Item in a new row instead of overflowing or shrinking too much we use,
+
+flex flex-wrap
+
+34) For Gap between elements we use,
+
+gap-20
 
